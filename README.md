@@ -1,3 +1,4 @@
 # react-app
+
 This is my first Git Repository
-Author-Basavaraj-Aiholli
+Author-Basavaraj-Aiholli (frontend developer)
